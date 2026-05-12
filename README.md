@@ -25,9 +25,9 @@ The repository investigates whether:
 
 The project builds upon the literature showing that factor returns themselves exhibit autocorrelation and momentum dynamics. Examples include:
 
-- "Factor Momentum Everywhere" by Gupta & Kelly (2019), documenting strong factor momentum across many equity factors :contentReference[oaicite:1]{index=1}
-- "Factor Momentum and the Momentum Factor" by Ehsani & Linnainmaa (2019), arguing that stock momentum is largely driven by factor momentum :contentReference[oaicite:2]{index=2}
-- "Momentum and Factor Momentum: A Re-examination" (2024), revisiting whether factor momentum fully explains stock momentum :contentReference[oaicite:3]{index=3}
+- "Factor Momentum Everywhere" by Gupta & Kelly (2019), documenting strong factor momentum across many equity factors
+- "Factor Momentum and the Momentum Factor" by Ehsani & Linnainmaa (2019), arguing that stock momentum is largely driven by factor momentum
+- "Momentum and Factor Momentum: A Re-examination" (2024), revisiting whether factor momentum fully explains stock momentum
 
 ---
 
